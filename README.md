@@ -2,7 +2,7 @@
 Cest Un Petit Project Que Jai Fais Mais Jai Arreter care jai la flem, <br>
 Le project Est En <a href="">PHP</a> Avec <a href="">Bootstrap</a><br>
 Ya Ausi Du MYSQL Pour Les Base De Donner .<br>
-<img src=""><br>
+<img src="novashop.png"><br>
 <br><br><br>
 <h2># Pour Lancer Le Projet </h2><br><br>
 Meter Les Fichies Dans Le dossier /var/www/html #Pour Apache<br>
