@@ -1,0 +1,92 @@
+@font-face
+{
+	font-family: Comfortaa-Bold;
+	src: url('Fonts/Comfortaa-Bold.ttf');
+	font-weight:normal;
+	font-style:normal;
+}
+@font-face
+{
+	font-family: gugi;
+	src: url('Fonts/Gugi-Regular.ttf');
+	font-weight: normal;
+	font-style: normal;
+}/*
+@font-face
+{
+	font-family: MrRobot;
+	src: url('Fonts/');
+	font-weight: normal;
+	font-style: normal;
+}*/
+
+
+
+
+body{
+	background-image: linear-gradient(to right top,#65dfc9,#6cdbeb);
+
+
+
+}
+.bg-glass{
+	background-image: linear-gradient(to right bottom,rgba(255,255,255,0.5),rgba(255,255,255,0.1));
+}
+.bg-glass-1{
+	background: linear-gradient(to left bottom,rgba(255,255,255,0.5),rgba(255,255,255,0.2));
+}
+
+.font-gugi
+{
+	font-family: "gugi";
+}
+
+.font-MrRobot
+{
+	font-family: MrRobot;
+}
+.font-Com
+{
+	font-family: Comfortaa-Bold;
+}
+
+.color-primare
+{
+	color:#6cdbeb !important;	
+}
+.color-seconde
+{
+	color: #06d6a0 !important;
+}
+
+.show-cart li {
+  display: flex;
+}
+.card {
+  margin-bottom: 20px;
+}
+.card-img-top {
+  width: 200px;
+  height: 200px;
+  align-self: center;
+}
+.circle1,.circle2{
+	background: white;
+	background: linear-gradient(to right bottom,rgba(255,255,255,0.8),rgba(255,255,255,0.3));
+	height: 20rem;
+	width: 20rem;
+	position: absolute;
+	border-radius: 50%;
+}
+/*
+.circle1
+{
+	top: 5%;
+	left: 70%;
+}
+.circle2
+{
+	bottom: 3%;
+	left: 1%;
+
+}*/
